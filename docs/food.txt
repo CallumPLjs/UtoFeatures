@@ -1,0 +1,16 @@
+weekly table
+random generator for each meal
+meal system: b -breakfast, l-lunch, d-dinner, s-snack, t-table
+generate daily table, 1 row for each meal, 1 column for each day of weekly
+each cell contains rcp/food title/name as a link to recipe
+
+json file with recipes, plus name/title to use into menu table
+
+save to pdf/print options on both menu and recipes
+
+add recipe function to save to json file: form to fill for (tbd key fields, standard rcp parts); add fields for ingredients/cooking steps (start with 1 each, plus and 'add' button)
+
+daily/weekly menu editor: either random generator button or daily editor at meal level (select menu for each meal for better customise). save daily templates. save weekly menus
+
+recipe display system. search funtions (menus, recipes, ingredients, by name, by category, by meal, by title) display solutions for each query type
+#

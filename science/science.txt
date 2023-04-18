@@ -1,0 +1,30 @@
+initial form
+table + final card
+
+building bonus formula
+sci generation function
+scientist experience and ranking
+starting scientists field
+
+
+each sci is an object or class
+each sci gets pushed inside an array at birth
+each tick the script loops thru the array and gets each sci rank to calc book prod, which then gets all added together for all sci tickly then added to the previous tick total for totalBooks
+
+
+scientist generation function
+ - declare (outside function) start/total regen at 0 and/or total regen = start regen
+ - calc base regen + bonuses
+ - total regen = totalRegen*modifiedRegen
+ - check if total regen > 100
+ if true totalRegen = totalRgen - 100
+ and sciNumbers += 1 (or create new sci)
+ (else totalRegen = totalRegen) or just if clause
+
+
+
+ scientist ranking function
+  - create array of ranks
+  - create experience var
+  - create production var
+  - create totalBooks per scientist

@@ -1,0 +1,4 @@
+scrape data from web page
+search thru the data for keywords
+regex?
+parse data

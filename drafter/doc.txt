@@ -1,0 +1,5 @@
+desired functionalities: 
+ - uto api/copy-paste intel to parse data and generate result
+ - included income/costs columns
+
+ jsfiddle
