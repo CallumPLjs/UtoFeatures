@@ -222,7 +222,7 @@ function buildResultCard() {
     cardTop.appendChild(p1);
 
     let p2 = document.createElement("p");
-    p2.innerHTML = "Other book bonus: <span style=color:yellow>" + otherBB + "</span>" + " || " + "Spell uptime: <span style=color:yellow>" + spellUp + "%</span>";
+    p2.innerHTML = "Other book bonus: <span style=color:yellow>" + otherBB + "%</span>" + " || " + "Spell uptime: <span style=color:yellow>" + spellUp + "%</span>";
     cardTop.appendChild(p2);
 
     let p3 = document.createElement("p");
